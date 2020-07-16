@@ -13,7 +13,7 @@ Use the package manager [npm](https://npmjs.com) to install all the packages. Us
 ```bash
 npm install
 ```
-
+[![Run on Repl.it](https://repl.it/badge/github/inhydrox/discord-music)](https://repl.it/github/inhydrox/discord-music)
 ## Configuration
 
 Go and edit in config/bot.json, make changes below to use it!
